@@ -1,0 +1,10 @@
+D:\全真通项目\SAFE\helper\bin\Release\helper.dll
+D:\全真通项目\SAFE\helper\bin\Release\helper.pdb
+D:\全真通项目\SAFE\helper\obj\Release\ResolveAssemblyReference.cache
+D:\全真通项目\SAFE\helper\obj\Release\helper.dll
+D:\全真通项目\SAFE\helper\obj\Release\helper.pdb
+D:\DMCProject\DMCProject\helper\bin\Release\helper.dll
+D:\DMCProject\DMCProject\helper\bin\Release\helper.pdb
+D:\DMCProject\DMCProject\helper\obj\Release\ResolveAssemblyReference.cache
+D:\DMCProject\DMCProject\helper\obj\Release\helper.dll
+D:\DMCProject\DMCProject\helper\obj\Release\helper.pdb

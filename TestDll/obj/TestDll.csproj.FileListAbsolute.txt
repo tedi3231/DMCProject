@@ -1,0 +1,10 @@
+D:\SAFE\TestDll\bin\Debug\TestDll.dll
+D:\SAFE\TestDll\bin\Debug\TestDll.pdb
+D:\SAFE\TestDll\bin\Debug\nunit.framework.dll
+D:\SAFE\TestDll\bin\Debug\nunit.framework.xml
+D:\SAFE\TestDll\obj\Debug\ResolveAssemblyReference.cache
+D:\SAFE\TestDll\obj\Debug\TestDll.dll
+D:\SAFE\TestDll\obj\Debug\TestDll.pdb
+D:\SAFE\TestDll\bin\Debug\helper.dll
+D:\SAFE\TestDll\bin\Debug\helper.pdb
+D:\SAFE\TestDll\bin\Debug\TestDll.dll.config

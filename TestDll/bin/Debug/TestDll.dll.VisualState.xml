@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1010]D:\DMCProject\DMCProject\TestDll\bin\Debug\TestDll.dll</TopNode>
+  <SelectedNode>[0-1005]TestDll.XMLOperatorTest.Testchinese</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1010]D:\DMCProject\DMCProject\TestDll\bin\Debug\TestDll.dll" Expanded="true" />
+    <Node UniqueName="[0-1011]TestDll" Expanded="true" />
+    <Node UniqueName="[0-1006]TestDll.RemoteFileTest" Expanded="true" />
+    <Node UniqueName="[0-1000]TestDll.VersionUpdateTest" Expanded="true" />
+    <Node UniqueName="[0-1003]TestDll.XMLOperatorTest" Expanded="true" />
+  </Nodes>
+</VisualState>

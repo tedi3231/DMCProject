@@ -1,0 +1,8 @@
+D:\DMCProject\DMCProject\helperTest\bin\Debug\helperTest.dll
+D:\DMCProject\DMCProject\helperTest\bin\Debug\helperTest.pdb
+D:\DMCProject\DMCProject\helperTest\bin\Debug\helper.dll
+D:\DMCProject\DMCProject\helperTest\bin\Debug\helper.pdb
+D:\DMCProject\DMCProject\helperTest\obj\Debug\ResolveAssemblyReference.cache
+D:\DMCProject\DMCProject\helperTest\obj\Debug\helperTest.dll
+D:\DMCProject\DMCProject\helperTest\obj\Debug\helperTest.pdb
+D:\DMCProject\DMCProject\helperTest\bin\Debug\VersionUpdate.cs

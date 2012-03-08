@@ -1,0 +1,32 @@
+<HTML>
+<HEAD>
+<script Language="JavaScript">
+<!--
+var winLogOn;
+
+function openWindow(sFile)
+{
+  if (winLogOn) 
+  {
+    winLogOn.close();
+  }
+
+  self.window.name = "winTop";
+  winLogOn = window.open(sFile,"winDataCenter","width=" + (screen.availWidth-8) + ",height=" + (screen.availHeight-25) + ",top=0,left=0,scrollbars=no,location=no,menubar=no,resizable=no,status=no");
+  winLogOn.focus();
+
+  this.opener = null;
+  this.close();
+  //window.open(sFile);
+}
+//-->
+</script>
+</HEAD>
+
+<BODY onload="openWindow('src/main.aspx');">
+
+</BODY>
+</HTML>
+
+
+

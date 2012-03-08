@@ -1,0 +1,9 @@
+D:\DMCProject\DMCProject\TestDll\bin\Release\TestDll.dll.config
+D:\DMCProject\DMCProject\TestDll\bin\Release\TestDll.dll
+D:\DMCProject\DMCProject\TestDll\bin\Release\TestDll.pdb
+D:\DMCProject\DMCProject\TestDll\bin\Release\helper.dll
+D:\DMCProject\DMCProject\TestDll\bin\Release\nunit.framework.xml
+D:\DMCProject\DMCProject\TestDll\bin\Release\helper.pdb
+D:\DMCProject\DMCProject\TestDll\obj\Release\ResolveAssemblyReference.cache
+D:\DMCProject\DMCProject\TestDll\obj\Release\TestDll.dll
+D:\DMCProject\DMCProject\TestDll\obj\Release\TestDll.pdb

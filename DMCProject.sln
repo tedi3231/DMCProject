@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DMCWebNew", "DMCWebNew\", "{3FEE5C9C-1258-4046-A2AF-C7D6EA02BD39}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "Svn"
+		SccAuxPath = "Svn"
+		SccLocalPath = "Svn"
+		SccProvider = "SubversionScc"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		ProjectReferences = "{D56FC8EC-868D-4B1A-912A-91642F0DDF50}|helper.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/DMCWebNew"
+		Debug.AspNetCompiler.PhysicalPath = "DMCWebNew\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\DMCWebNew\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/DMCWebNew"
+		Release.AspNetCompiler.PhysicalPath = "DMCWebNew\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\DMCWebNew\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1575"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helper", "helper\helper.csproj", "{D56FC8EC-868D-4B1A-912A-91642F0DDF50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDll", "TestDll\TestDll.csproj", "{205A6D49-FD7C-4157-A37D-8DB4A03E7236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helperTest", "helperTest\helperTest.csproj", "{35F721B4-284E-458F-9638-21FC59418FFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D375EEFF-2545-4C4B-82A3-5DA4363759C2}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FEE5C9C-1258-4046-A2AF-C7D6EA02BD39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEE5C9C-1258-4046-A2AF-C7D6EA02BD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEE5C9C-1258-4046-A2AF-C7D6EA02BD39}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEE5C9C-1258-4046-A2AF-C7D6EA02BD39}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D56FC8EC-868D-4B1A-912A-91642F0DDF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56FC8EC-868D-4B1A-912A-91642F0DDF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56FC8EC-868D-4B1A-912A-91642F0DDF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56FC8EC-868D-4B1A-912A-91642F0DDF50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{205A6D49-FD7C-4157-A37D-8DB4A03E7236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205A6D49-FD7C-4157-A37D-8DB4A03E7236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205A6D49-FD7C-4157-A37D-8DB4A03E7236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205A6D49-FD7C-4157-A37D-8DB4A03E7236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F721B4-284E-458F-9638-21FC59418FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F721B4-284E-458F-9638-21FC59418FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F721B4-284E-458F-9638-21FC59418FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F721B4-284E-458F-9638-21FC59418FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

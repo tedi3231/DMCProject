@@ -1,0 +1,7 @@
+D:\DMCProject\DMCProject\helperTest\obj\Release\ResolveAssemblyReference.cache
+D:\DMCProject\DMCProject\helperTest\bin\Release\helperTest.dll
+D:\DMCProject\DMCProject\helperTest\bin\Release\helperTest.pdb
+D:\DMCProject\DMCProject\helperTest\bin\Release\helper.dll
+D:\DMCProject\DMCProject\helperTest\bin\Release\helper.pdb
+D:\DMCProject\DMCProject\helperTest\obj\Release\helperTest.dll
+D:\DMCProject\DMCProject\helperTest\obj\Release\helperTest.pdb
